@@ -1,0 +1,17 @@
+{
+  "name": "Neon Pastel · Dashboard Personal",
+  "short_name": "Mi Panel",
+  "description": "Hábitos, rutinas, quehaceres y bienestar, guardado en tu dispositivo.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#262635",
+  "theme_color": "#262635",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
